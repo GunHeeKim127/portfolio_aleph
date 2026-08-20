@@ -27,7 +27,7 @@ const process = [
 
 export default function Process() {
   return (
-    <section className="process-section">
+    <section className="process-section" id="defects">
       <div className="section">
         <div className="section-heading">
           <div>

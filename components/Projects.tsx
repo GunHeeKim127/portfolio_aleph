@@ -2,7 +2,7 @@ export default function Evidence() {
   return (
     <section
       className="evidence-section"
-      id="evidence"
+      id="projects"
     >
       <div className="section">
         <div className="evidence-layout">

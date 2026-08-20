@@ -101,7 +101,7 @@ export default function Verification() {
         </div>
       </div>
 
-      <div className="ai-log">
+      <div className="ai-log" id="ai-log">
         <div>
           <p className="eyebrow">
             AI 3 LINES

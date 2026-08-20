@@ -1,8 +1,8 @@
 export default function Evidence() {
   return (
     <section
-      className="evidence-section"
-      id="evidence"
+      id="projects"
+      className="section"
     >
       <div className="section">
         <div className="evidence-layout">

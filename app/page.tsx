@@ -18,7 +18,7 @@ export default function Home() {
         <Hero />
         <ProofStrip />
         <Strengths />
-        <Evidence />
+        {/* <Evidence /> */}
         <Projects />
         <Process />
         <Verification />

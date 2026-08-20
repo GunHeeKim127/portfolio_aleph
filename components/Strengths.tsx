@@ -14,8 +14,8 @@ export default function Strengths() {
 
   return (
     <section
-      className="section"
       id="strengths"
+      className="dark-section section"
     >
       <div className="section-heading">
         <div>
@@ -41,9 +41,8 @@ export default function Strengths() {
 
           return (
             <article
-              className={`strength-card ${
-                isOpen ? "is-open" : ""
-              }`}
+              className={`strength-card ${isOpen ? "is-open" : ""
+                }`}
               key={strength.number}
             >
               <button
